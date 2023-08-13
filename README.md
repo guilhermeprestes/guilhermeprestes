@@ -1,5 +1,5 @@
 ## Olá! Sejam muito bem Vindos 👋🏽
-### Eu sou Guilherme Prestes 🎓 Bacharel em Sistemas de Informação e 💻  Administrador de Redes
+### Eu sou Guilherme Prestes 🎓 Bacharel em Sistemas de Informação e 💻  Analista de redes e comunicação de dados
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oprestesgui/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeprestes/)
