@@ -25,3 +25,4 @@
 |[Wiki.js](https://github.com/guilhermeprestes/Wiki.JS)|Sistema de Wiki para documentação e tutoriais|
 |[GLPI](https://github.com/guilhermeprestes/GLPI)|Sistema para abertura de chamados|
 |[Netbox](https://github.com/guilhermeprestes/Netbox)| Sistema para documentação de infraestrutura|
+|[Zabbix](https://github.com/guilhermeprestes/zabbix)| Instalar o zabbix server em 3 camadas|
