@@ -21,11 +21,9 @@
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-    
-    <img align="center" alt="NGINX" src="" />
-    <img align="center" alt="NGINX" src="" />
-    <img align="center" alt="NGINX" src="" />
-    <img align="center" alt="NGINX" src="" />
+    <img align="center" alt="CISCO" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img align="center" alt="GRAFANA" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" />
+    <img align="center" alt="PROXMOX" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 
     
 </div><br/>
